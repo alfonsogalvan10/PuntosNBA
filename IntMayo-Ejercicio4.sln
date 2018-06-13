@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntMayo-Ejercicio4", "IntMayo-Ejercicio4\IntMayo-Ejercicio4.csproj", "{CDB60770-D250-4623-BB62-E0A81EFCD408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB60770-D250-4623-BB62-E0A81EFCD408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB60770-D250-4623-BB62-E0A81EFCD408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB60770-D250-4623-BB62-E0A81EFCD408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB60770-D250-4623-BB62-E0A81EFCD408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A203715-4DBC-4503-9445-AE8F4C0E0DFE}
+	EndGlobalSection
+EndGlobal

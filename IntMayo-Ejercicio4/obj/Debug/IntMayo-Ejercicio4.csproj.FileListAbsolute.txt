@@ -1,0 +1,7 @@
+F:\PROGRAMACION\RECUPERACION\IntMayo-Ejercicio4\IntMayo-Ejercicio4\bin\Debug\IntMayo-Ejercicio4.exe.config
+F:\PROGRAMACION\RECUPERACION\IntMayo-Ejercicio4\IntMayo-Ejercicio4\bin\Debug\IntMayo-Ejercicio4.exe
+F:\PROGRAMACION\RECUPERACION\IntMayo-Ejercicio4\IntMayo-Ejercicio4\bin\Debug\IntMayo-Ejercicio4.pdb
+F:\PROGRAMACION\RECUPERACION\IntMayo-Ejercicio4\IntMayo-Ejercicio4\obj\Debug\IntMayo-Ejercicio4.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION\RECUPERACION\IntMayo-Ejercicio4\IntMayo-Ejercicio4\obj\Debug\IntMayo-Ejercicio4.csproj.CoreCompileInputs.cache
+F:\PROGRAMACION\RECUPERACION\IntMayo-Ejercicio4\IntMayo-Ejercicio4\obj\Debug\IntMayo-Ejercicio4.exe
+F:\PROGRAMACION\RECUPERACION\IntMayo-Ejercicio4\IntMayo-Ejercicio4\obj\Debug\IntMayo-Ejercicio4.pdb
